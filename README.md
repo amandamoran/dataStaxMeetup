@@ -1,5 +1,6 @@
 # dataStaxMeetup
 Slides and DataStax Studio Notebooks for DataStax Meetup
+
 <img src="pics/friendDataStax.png" width="450" height="250">
 
 
